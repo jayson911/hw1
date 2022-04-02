@@ -1,0 +1,28 @@
+body {
+    background:azure;
+}
+h1 {
+    background: brown;
+}
+p {
+    background: aqua;
+    text-align: justify;
+    font-size: medium;
+}
+h2 {
+    background: coral;
+}
+li {
+    background: cornflowerblue;
+    font-size: medium;
+}
+ul {
+    background: darkgreen;
+}
+img {
+    width: 400px;
+}
+a {
+    background: darkorchid;
+    color: coral;
+}

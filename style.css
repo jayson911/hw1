@@ -1,0 +1,24 @@
+a{
+    width: 200px;
+    color: blue;
+}
+h1 {
+    color: coral;
+    background-color: darkorchid;
+}
+h2{
+    color: cornflowerblue;
+    background-color: brown;
+}
+p{
+    text-align: justify;
+    background-color: aqua;
+}
+ul{
+    color: burlywood;
+    background-color: chocolate;
+}
+li{
+    color: cadetblue;
+    background-color: darkmagenta;
+}
